@@ -1,0 +1,8 @@
+
+div .casillas_color{display: flex;
+    background-color: #636363;
+    color: #ffffff;
+    width: 92%;
+    margin: 20px;
+    margin-top: 0;
+}    

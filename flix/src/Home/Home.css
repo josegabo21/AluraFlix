@@ -1,0 +1,40 @@
+.contenido_inicio .imagen_principal{
+    width: 100%;
+    opacity: 0.4;
+
+}
+
+.contenido_inicio h1{
+    position: absolute;
+    top: 60%;
+    left: 3%;
+    font-size: 35px;
+    color: #fff;
+    background-color: #4ed8dd;
+    padding: 10px;
+
+}
+
+.contenido_inicio p{
+    position: absolute;
+    top: 90%;
+    left: 3%;
+    font-size: 15px;
+    color: #fff;
+    
+}
+
+.contenido_inicio h2{
+    position: absolute;
+    top: 80%;
+    left: 3%;
+    font-size: 35px;
+    color: #fff;
+}
+
+.imagen_player{
+    position: absolute;
+    width: 40%;
+    top: 70%;
+    right: 5%;
+}

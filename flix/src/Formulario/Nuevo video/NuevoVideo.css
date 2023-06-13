@@ -1,0 +1,87 @@
+form{
+    padding-left: 10px;
+}
+
+h1{
+    color: #fff;
+    margin: 20px;
+    text-align: center;
+}
+
+label{
+    color: #fff;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+div .casillas{
+    display: flex;
+    background-color: #636363;
+    color: #ffffff;
+    padding: 7px;
+    width: 90%;
+    margin: 20px;
+    margin-top: 0;
+
+}
+
+textarea{
+    text-align: left;
+}
+
+select{
+    display: flex;
+    background-color: #636363;
+    border-color: #ffffff;
+    color: #fff;
+    padding: 7px;
+    width: 91.5%;
+    margin: 20px;
+    margin-top: 0;
+}
+
+.aviso{
+    margin-top: 0;
+    color: red;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.boton1{
+    color: #ffffff;
+    text-align: center;
+    background-color: #006eff;
+    width: 120px;
+    height: 40px;
+    border: 0;
+    border-radius: 5px;
+    margin: 15px;
+    font-family: 'poppins', sans-serif;
+    transition: all;
+}
+
+.boton2{
+    color: #000000;
+    text-align: center;
+    background-color: #bebfc0;
+    width: 120px;
+    height: 40px;
+    border: 0;
+    border-radius: 5px;
+    margin: 10px;
+    font-family: 'poppins', sans-serif;
+    transition: all;
+}
+
+.boton3{
+    color: #ffffff;
+    text-align: center;
+    background-color: #006eff;
+    width: 150px;
+    height: 40px;
+    border: 0;
+    border-radius: 5px;
+    margin-left: 50%;
+    font-family: 'poppins', sans-serif;
+    transition: all;
+}
